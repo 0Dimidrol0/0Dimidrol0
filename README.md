@@ -1,16 +1,40 @@
-## Hi there 👋
+# Hi, I'm Eric 👋
 
-<!--
-**0Dimidrol0/0Dimidrol0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a software engineer focused primarily on **Android and Kotlin**.
 
-Here are some ideas to get you started:
+I enjoy building things that go beyond standard application screens — real-time systems, networking, video streaming, SDKs, developer tools, backend integrations, and performance-sensitive features.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Most of my work revolves around taking a technical problem from an idea to a working system: architecture, implementation, integration, debugging, and production troubleshooting.
+
+### What I work with
+
+- **Android / Kotlin**
+- **Coroutines & Flow**
+- **Jetpack Compose / XML**
+- **Ktor**
+- **WebRTC & WebSockets**
+- **Networking**
+- **SDK & library development**
+- **Camera & video pipelines**
+- **Performance and device-level diagnostics**
+- **Backend integrations**
+- **Linux / Nginx / VPS infrastructure**
+
+### What interests me
+
+I'm especially interested in:
+
+- Android architecture
+- real-time communication
+- video and media systems
+- networking
+- developer tooling
+- performance optimization
+- low-level Android behavior
+- building reusable libraries and SDKs
+
+I like understanding **how things work under the hood**, not just making them work.
+
+---
+
+Always building, experimenting, and learning.
