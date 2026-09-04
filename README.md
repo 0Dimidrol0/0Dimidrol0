@@ -47,7 +47,7 @@ I like understanding **how things work under the hood**, not just making them wo
 ## 🔗 Find me
 
 [![GitHub](https://img.shields.io/badge/GitHub-0Dimidrol0-181717?logo=github)](https://github.com/0Dimidrol0)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Eric%20Shvets-0A66C2?logo=linkedin\&logoColor=white)]([YOUR_LINKEDIN_URL](https://www.linkedin.com/in/eric-shvets-731526222/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Eric%20Shvets-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eric-shvets-731526222/)
 [![Email](https://img.shields.io/badge/Email-Contact%20me-EA4335?logo=gmail\&logoColor=white)](mailto:eric.shvets@gmail.com)
 
 ---
